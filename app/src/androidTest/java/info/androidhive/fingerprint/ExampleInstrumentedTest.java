@@ -23,4 +23,4 @@ public class ExampleInstrumentedTest {
 
         assertEquals("info.androidhive.fingerprint", appContext.getPackageName());
     }
-}
+} 
